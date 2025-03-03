@@ -1,0 +1,63 @@
+{
+    // Use o IntelliSense para saber mais sobre os atributos possíveis.
+    // Focalizar para exibir as descrições dos atributos existentes.
+    // Para obter mais informações, acesse: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Exercise1",
+            "request": "launch",
+            "mainClass": "Exercise1",
+            "projectName": "estrutura-repeticao_ac686c1f"
+        },
+        {
+            "type": "java",
+            "name": "Exercise2",
+            "request": "launch",
+            "mainClass": "Exercise2",
+            "projectName": "estrutura-repeticao_ac686c1f"
+        },
+        {
+            "type": "java",
+            "name": "Exercise3",
+            "request": "launch",
+            "mainClass": "Exercise3",
+            "projectName": "estrutura-repeticao_ac686c1f"
+        },
+        {
+            "type": "java",
+            "name": "ForStructure",
+            "request": "launch",
+            "mainClass": "ForStructure",
+            "projectName": "estrutura-repeticao_ac686c1f"
+        },
+        {
+            "type": "java",
+            "name": "JumpStatement",
+            "request": "launch",
+            "mainClass": "JumpStatement",
+            "projectName": "estrutura-repeticao_ac686c1f"
+        },
+        {
+            "type": "java",
+            "name": "Loop",
+            "request": "launch",
+            "mainClass": "Loop",
+            "projectName": "estrutura-repeticao_ac686c1f"
+        },
+        {
+            "type": "java",
+            "name": "WhileStructure",
+            "request": "launch",
+            "mainClass": "WhileStructure",
+            "projectName": "estrutura-repeticao_ac686c1f"
+        }
+    ]
+}
