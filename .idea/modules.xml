@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Java-Giuliana-Silva.iml" filepath="$PROJECT_DIR$/.idea/Java-Giuliana-Silva.iml" />
+      <module fileurl="file://$PROJECT_DIR$/estrutura-de-selecao/estrutura-de-selecao.iml" filepath="$PROJECT_DIR$/estrutura-de-selecao/estrutura-de-selecao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/estrutura-repeticao/estrutura-repeticao.iml" filepath="$PROJECT_DIR$/estrutura-repeticao/estrutura-repeticao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exercicios-conhecendo-a-base/exercicios-conhecendo-a-base.iml" filepath="$PROJECT_DIR$/exercicios-conhecendo-a-base/exercicios-conhecendo-a-base.iml" />
+    </modules>
+  </component>
+</project>
